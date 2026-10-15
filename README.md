@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/stage-banner.svg" alt="Vso, InfinityNet. Small tools, built on Android." width="100%">
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/stage-banner.svg" alt="VSO, InfinityNet. Small tools, built on Android." width="100%">
 
 <img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/cheer.svg" alt="YOKOSO! KIRA KIRA! DOKI DOKI! MOCHI MOCHI! PUYO PUYO! WAKU WAKU! WASHOI! THE WONDER STAGE! 🎀✨" width="100%">
 
