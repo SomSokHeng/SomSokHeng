@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/stage-banner.svg?v=2" alt="Vso, InfinityNet. Small tools, built on Android." width="100%">
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/stage-banner.svg?v=3" alt="VSO, InfinityNet. Small tools, built on Android." width="100%">
 
 <img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/cheer.svg?v=2" alt="YOKOSO! KIRA KIRA! DOKI DOKI! MOCHI MOCHI! PUYO PUYO! WAKU WAKU! WASHOI! THE WONDER STAGE! 🎀✨" width="100%">
 
-<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/about.svg?v=2" alt="Hi, I'm VSO. I build small, sharp tools: network utilities, security helpers and computer vision experiments. Self-taught, I develop on mobile and write most of my code on an Android phone with my friends Claude, GPT, MiniMax, DeepSeek and Gemini. I'm the builder behind InfinityNet. Posting whatever I want." width="100%">
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/about.svg?v=3" alt="Hi, I'm VSO. I build small, sharp tools: network utilities, security helpers and computer vision experiments. Self taught, I develop on mobile and write most of my code on an Android phone with my friends Claude Gpt Minimax Deepseek and Gemini. I'm Builder behind InfinityNet. Posting whatever I want." width="100%">
 
 </div>
 
