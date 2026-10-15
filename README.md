@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/cheer.svg" alt="YOKOSO! KIRA KIRA! DOKI DOKI! MOCHI MOCHI! PUYO PUYO! WAKU WAKU! WASHOI! THE WONDER STAGE! 🎀✨" width="100%">
 
-<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/about.svg" alt="Hi, I'm VSO. I build small, sharp tools: network utilities, security helpers and computer vision experiments. Self-taught, I develop on mobile and write most of my code on an Android phone. Builder behind InfinityNet. Posting whatever I want." width="100%">
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/about.svg" alt="Hi, I'm VSO. I build small, sharp tools: network utilities, security helpers and computer vision experiments. Self taught, I develop on mobile and write most of my code on an Android phone with my friends Claude Gpt Minimax Deepseek and Gemini. I'm Builder behind InfinityNet. Posting whatever I want." width="100%">
 
 </div>
 
