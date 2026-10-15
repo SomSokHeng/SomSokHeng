@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Vso, InfinityNet. Small tools, built on Android." width="100%">
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/banner.svg" alt="Vso, InfinityNet. Small tools, built on Android." width="100%">
 
 </div>
 
