@@ -6,7 +6,7 @@
 
 ## Hi, I'm Vso
 
-I build small, sharp tools: network utilities, security helpers and computer-vision experiments. Self-taught, mobile-first, and mostly written on an Android phone. Builder behind **InfinityNet**.
+I build small, sharp tools: network utilities, security helpers and computervision experiments. Self-taught, develope on mobile, and mostly written on an Android phone. Builder behind **InfinityNet**. Posting something I wanted 
 
 ## Featured work
 
@@ -105,3 +105,4 @@ Also here: [rndkit](https://github.com/SomSokHeng/rndkit), a tiny random toolkit
 - Standard library first, as few dependencies as possible.
 - Treat every input as hostile: validate it, bound it, and test it with bad data.
 - Verify what gets downloaded, and refuse to guess when something looks wrong.
+- I'm a goodboy no no crime post here.
