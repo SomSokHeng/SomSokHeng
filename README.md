@@ -106,3 +106,4 @@ Also here: [rndkit](https://github.com/SomSokHeng/rndkit), a tiny random toolkit
 - Treat every input as hostile: validate it, bound it, and test it with bad data.
 - Verify what gets downloaded, and refuse to guess when something looks wrong.
 - I'm a goodboy no no crime post here.
+- Me pro gammer MLBB, PUBGM, PG3D, BloodStrike, Roblox 😈😈😱😱
