@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/banner.svg" alt="Vso, InfinityNet. Small tools, built on Android." width="100%">
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/stage-banner.svg" alt="Vso, InfinityNet. Small tools, built on Android." width="100%">
+
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/cheer.svg" alt="YOKOSO! KIRA KIRA! DOKI DOKI! MOCHI MOCHI! PUYO PUYO! WAKU WAKU! WASHOI! THE WONDER STAGE! 🎀✨" width="100%">
+
+<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/about.svg" alt="Hi, I'm Vso. I build small, sharp tools: network utilities, security helpers and computer vision experiments. Self-taught, I develop on mobile and write most of my code on an Android phone. Builder behind InfinityNet. Posting whatever I want." width="100%">
 
 </div>
-
-## Hi, I'm Vso
-
-I build small, sharp tools: network utilities, security helpers and computervision experiments. Self-taught, develope on mobile, and mostly written on an Android phone. Builder behind **InfinityNet**. Posting something I wanted 
 
 ## Featured work
 
@@ -91,9 +91,23 @@ TLS certificate expiry monitor that drops into cron or CI.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-Also here: [rndkit](https://github.com/SomSokHeng/rndkit), a tiny random toolkit for passwords, tokens, ideas and dice.
+**[VSO-Z Gate](https://github.com/SomSokHeng/VSO-Z-Gate)**<br>
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
+Strict HTTP/1.1 front gate with scrape scoring, proof-of-work challenge, honeypot bans and a raw-socket header inspector.
+
+</td>
+<td width="50%" valign="top">
+
+**[rndkit](https://github.com/SomSokHeng/rndkit)**<br>
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
+Tiny random toolkit for passwords, tokens, ideas, names and dice.
+
+</td>
+</tr>
+</table>
 
 ## Languages
 
