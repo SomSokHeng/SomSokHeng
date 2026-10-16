@@ -29,5 +29,16 @@
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/Rust-b7410e?style=flat-square&logo=rust&logoColor=white" alt="Rust"> <img src="https://img.shields.io/badge/Perl-39457e?style=flat-square&logo=perl&logoColor=white" alt="Perl"> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SomSokHeng/SomSokHeng/main/assets/about.svg?v=2" alt="How I like to build. Small tools that do one thing and have a README. Standard library first, as few dependencies as possible. Treat every input as hostile: validate it, bound it, and test it with bad data. Verify what gets downloaded, and refuse to guess when something looks wrong. I'm a goodboy no no crime post here. Me pro gammer MLBB, PUBGM, PG3D, BloodStrike, Roblox 😈😈😱😱" width="100%">
+  I like building small tools that do one thing and do it well. Standard library first,
+  as few dependencies as possible. I treat every input as hostile — validate it, bound it,
+  and throw bad data at it to see what breaks. I verify what gets downloaded, and I refuse
+  to guess when something looks off.
+</p>
+
+<p align="center">
+  When I'm not coding, I'm gaming. MLBB, PUBGM, PG3D, BloodStrike, Roblox. 😈😱
+</p>
+
+<p align="center">
+  <i>Good boy. No crimes posted here.</i>
 </p>
